@@ -7,8 +7,8 @@
 
 ## My NPM profile
 
--uri - https://www.npmjs.com/settings/npm_reactnative_developer_/packages
+- uri - https://www.npmjs.com/settings/npm_reactnative_developer_/packages
 
 ## My GitHub profile
 
--uri - https://github.com/dheerajprajapati9898
+- uri - https://github.com/dheerajprajapati9898
